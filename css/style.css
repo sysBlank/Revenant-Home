@@ -14,3 +14,7 @@
 .info-ul li {
     display: inline-block;
 }
+
+body {
+    background-color: aliceblue;
+}
