@@ -1,0 +1,16 @@
+.container {
+    width: 80%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.info-ul {
+    margin-top: 0;
+    list-style: none;
+    display:inline-block;
+    float: left;
+}
+
+.info-ul li {
+    display: inline-block;
+}
